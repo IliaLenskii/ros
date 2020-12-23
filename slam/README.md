@@ -1,6 +1,6 @@
 # FastSLAM (any modification)
 
-Значения (округленные) результата:
-Bag Time: 173735165.2
-Duration: 69.1 / 101.6
+A particle-based FastSLAM algorithm in Python for pioneer 3dx mobile robot
+
+Source https://github.com/arthurhero/FastSLAM
 
